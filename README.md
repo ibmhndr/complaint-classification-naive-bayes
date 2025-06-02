@@ -18,6 +18,14 @@ The goal is to evaluate and compare the performance of each model on real-world 
 - `nb_comparison.ipynb`: Main Jupyter Notebook for model implementation and evaluation
 - `pengaduan_kota_denpasar.xlsx`: Main dataset used for classification
 
+## 📊 Dataset
+
+The dataset used in this study is publicly available on Mendeley Data:
+
+> [Pro Denpasar Complaint Dataset – Mendeley Data](https://data.mendeley.com/datasets/9p6wpvxt9c/2)
+
+Please refer to the dataset terms of use before using it in your own work.
+
 ## 📚 Reference
 If you use or refer to this work in your research, please cite the following article:
 
